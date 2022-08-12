@@ -1,0 +1,22 @@
+.title {
+    font-family: Lobster, monospace;
+
+    color: red;
+}
+
+p {
+    font-family: Lobster;
+}
+
+.red-text {
+    color: brown;
+}
+
+.thick-green-border {
+    border-color: brown;
+    border-width: 3px;
+    border-style: double;
+
+}
+
+
